@@ -205,11 +205,6 @@ ids_cl/
   ```bash
   nohup ./run_dashboard.sh > dashboard.log 2>&1 &
   ```
-
-* **Missing module errors:**
-  Ensure you are using the correct Python interpreter:
-  ```bash
-  /home/prajwal/Traffic_Baseine/traffic_baseline/dl/bin/python3 app.py
   ```
 
 ---
